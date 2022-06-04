@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ibrahimkhalil188) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
+Welcome to my GitHub profile. I am a MERN Stack Developer 
 Knock me: m.facebook.com/mohammadibrahim.khalil.186
 
 Skills:  NODE.JS / Express.js / Tailwind / Bootstrap / REACT / JS / HTML / CSS
